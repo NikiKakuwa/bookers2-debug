@@ -66,7 +66,7 @@ gem 'devise'
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem "refile-mini_magick"
 gem 'bootstrap-sass', '~> 3.3.6' #新しく追加！
-gem 'kaminari','~> 1.1.1' #新しく追加！
+gem 'kaminari','~> 1.2.1' #新しく追加！
 
 gem 'jquery-rails'
 
